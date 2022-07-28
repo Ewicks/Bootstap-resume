@@ -30,6 +30,17 @@
     background-color: #9b59b6;
 }
 
+.ui-menu-color-interests {
+    background-color: cyan;
+}
+
+.ui-menu-color-github {
+    background-color: blue;
+}
+
+
+
+
 .ui-menu-color-contact {
     background-color: #3498db;
 }
