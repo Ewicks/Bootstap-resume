@@ -55,6 +55,13 @@ img {
 
 /* page structure */
 
+.small-name {
+  font-size: 0.75em;
+  color: #a9a9a9;
+  font-style: italic;
+}
+
+
 #search-area {
   display: block;
   max-width: 70%;
@@ -83,12 +90,6 @@ img {
 
 
 /* page content styles */
-
-.small-name {
-  font-size: 0.75em;
-  color: #a9a9a9;
-  font-style: italic;
-}
 
 .avi {
   float: left;
